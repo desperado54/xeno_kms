@@ -1,0 +1,22 @@
+{
+    "56": {
+        "network":"bscmain",
+        "web3_http_endpoint":"https://bsc-dataseed1.binance.org/",
+        "web3_ws_endpoint":"wss://rough-soft-pool.bsc-testnet.discover.quiknode.pro/ca3b4c2f10f019903190e1e5fb32ce9a39c1c86d/"    
+    },
+    "1": {
+        "network":"eth",
+        "web3_http_endpoint":"https://mainnet.infura.io/v3/11f1469accbc473884fa50e686eef6cc",
+        "web3_ws_endpoint":"wss://mainnet.infura.io/ws/v3/11f1469accbc473884fa50e686eef6cc"    
+    },
+    "97": {
+        "network":"bsctest",
+        "web3_http_endpoint":"https://data-seed-prebsc-1-s1.binance.org:8545/",
+        "web3_ws_endpoint":"wss://rough-soft-pool.bsc-testnet.discover.quiknode.pro/ca3b4c2f10f019903190e1e5fb32ce9a39c1c86d/"    
+    },
+    "5": {
+        "network":"goerli",
+        "web3_http_endpoint":"https://goerli.infura.io/v3/11f1469accbc473884fa50e686eef6cc",
+        "web3_ws_endpoint":"wss://goerli.infura.io/ws/v3/11f1469accbc473884fa50e686eef6cc"    
+    }
+}
